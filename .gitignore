@@ -1,0 +1,6 @@
+.vscode
+# mongodb_backup
+-/
+__pycache__/
+build/
+*.spec
